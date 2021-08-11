@@ -1,0 +1,19 @@
+.user {
+  border: 1px solid black;
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: silver;
+}
+
+.desc {
+  font-weight: bold;
+}
+
+.user button {
+  border: 1px solid black;
+  width: 120px;
+  height: 25px;
+  margin: 5px;
+  font-weight: bold;
+}

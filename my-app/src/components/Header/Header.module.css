@@ -1,0 +1,11 @@
+.header {
+  grid-area: hd;
+}
+
+.logo {
+  float: left;
+}
+
+.btnExit {
+  float: right;
+}
